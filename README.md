@@ -10,7 +10,8 @@ Now, for the admin side, when they take an aptitude test they will have to keep 
 And using this application work will be easy, the admin can maintain all data easily in tabular format and will generate QR code for the test and send it to aspirants by email. Then, the application will check the tests and marks will be displayed in sorted form according to the technology and vacancy. Now, after viewing the marks they can schedule the interview easily from the application.
 And facilities provided to admin are
 1. Add new technologies
-2. Add new Question paper/delete one 3. Schedule an interview
+2. Add new Question paper/delete one 
+3. Schedule an interview
 4. View today's interview schedule
 5. Add remove vacancies
 and many more.
